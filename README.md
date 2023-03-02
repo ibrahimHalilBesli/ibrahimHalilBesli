@@ -5,10 +5,6 @@
 I am **Ibrahim Halil Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
 Detail-oriented **Test Engineer** with **over +2 years** of experience and a comprehensive technical knowledge of 
 flaw identification in Software Web Applications. I graduated from **University of Antalya Science Electrical** and **Electronics Engineering Department**.
-<p>
-<a href="https://www.linkedin.com/in/ibrahimhalilbesli/">
-  <img  alt="Ibrahim's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <p/>
 
 - 🔭 I’m currently working as **Software Test Engineer**
 - 🌱 I’m currently learning **PlayWright**
