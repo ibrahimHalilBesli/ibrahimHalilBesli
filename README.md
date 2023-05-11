@@ -3,7 +3,7 @@
 </h1>
 
 I am **Ibrahim Halil Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
-Detail-oriented **Test Engineer** with **over +2 years** of experience and a comprehensive technical knowledge of 
+Detail-oriented **Test Engineer** with **over 2.5+ years** of experience and a comprehensive technical knowledge of 
 flaw identification in Software Web Applications. I graduated from **University of Anadolu** and **Department of Business**.
 
 - 🔭 I’m currently working as **Software Test Engineer**
