@@ -7,7 +7,7 @@ Detail-oriented **Test Engineer** with **over 2.5+ years** of experience and a c
 flaw identification in Software Web Applications. I graduated from **University of Anadolu** and **Department of Business**.
 
 - 🔭 I’m currently working as **Software Test Engineer**
-- 🌱 I’m currently learning **PlayWright**
+- 🌱 I’m currently learning **Cypress**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ibrahimhalilbesli/)**    
